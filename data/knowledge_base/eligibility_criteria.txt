@@ -1,0 +1,119 @@
+ELIGIBILITY CRITERIA — QUICK REFERENCE GUIDE
+============================================
+Greenfield University | 2025–2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. STREAM-WISE ELIGIBILITY (12th / 10+2)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Science Stream (PCM — Physics, Chemistry, Mathematics)
+  Eligible for: B.Tech (all branches), B.Sc Physics/Chemistry/Mathematics/Biotechnology,
+                BCA, B.Sc Environmental Science, BBA (any), B.Com (any),
+                BA (any), BA LLB, BBA LLB, BFA, BDes
+
+Science Stream (PCB — Physics, Chemistry, Biology)
+  Eligible for: B.Sc Biotechnology, B.Sc Environmental Science, B.Sc Chemistry,
+                BFA, BDes, BA (any), BBA (any), B.Com (any), BA LLB, BBA LLB
+  NOT eligible for: B.Tech (Mathematics mandatory), BCA
+
+Commerce Stream
+  Eligible for: B.Com (all), BBA (all), BA Economics, BA (any), BA LLB, BBA LLB,
+                BDes, BFA
+  NOT eligible for: B.Tech, B.Sc (Physics/Chemistry/Maths/Bio), BCA
+
+Arts / Humanities Stream
+  Eligible for: BA (all), BFA, BDes, B.Com (General), BBA (General), BA LLB
+  NOT eligible for: B.Tech, B.Sc (Science), BCA, BBA Business Analytics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. MINIMUM PERCENTAGE — PROGRAMME SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Programme           | General | SC/ST | OBC
+──────────────────────────────────────────────
+B.Tech – CSE        |   60%   |  55%  |  57%
+B.Tech – CSE (AI/ML)|   65%   |  60%  |  62%
+B.Tech – ECE        |   60%   |  55%  |  57%
+B.Tech – Mech/Civil |   55%   |  50%  |  52%
+B.Tech – Data Sci   |   65%   |  60%  |  62%
+B.Tech – Cybersec   |   65%   |  60%  |  62%
+BBA (all)           |   50%   |  45%  |  47%
+B.Com (all)         |   50%   |  45%  |  47%
+B.Sc (Science Hons) |   55%   |  50%  |  52%
+B.Sc – Biotechnology|   60%   |  55%  |  57%
+BA (all)            |   50%   |  45%  |  47%
+BFA / BDes          |   45%   |  40%  |  42%
+BA LLB / BBA LLB    |   50%   |  45%  |  47%
+MBA (all)           |   55%   |  50%  |  52%
+M.Tech (all)        |   55%   |  50%  |  52%
+M.Sc (all)          |   55%   |  50%  |  52%
+MA (all)            |   55%   |  50%  |  52%
+Ph.D. (all)         |   55%   |  50%  |  52%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. ENTRANCE EXAM CUTOFFS — CURRENT YEAR (EXPECTED)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Programme            | Exam         | Min Score/Percentile
+────────────────────────────────────────────────────────────
+B.Tech – CSE         | JEE Main     | 75th percentile
+B.Tech – CSE (AI/ML) | JEE Main     | 80th percentile
+B.Tech – ECE         | JEE Main     | 70th percentile
+B.Tech – Mech        | JEE Main     | 65th percentile
+B.Tech – Civil       | JEE Main     | 60th percentile
+B.Tech – Data Sci    | JEE Main     | 78th percentile
+B.Tech – Cybersec    | JEE Main     | 80th percentile
+BBA (all)            | GMAT-U/CET   | 50th percentile
+B.Sc                 | GSET         | 40th percentile
+BA/BFA/BDes          | GAET+PI      | Portfolio evaluation
+MBA                  | CAT          | 75th percentile
+MBA                  | MAT/XAT      | 75th percentile
+M.Tech               | GATE         | 450 / 1000
+MCA                  | GFU MCA Test | 50th percentile
+M.Sc                 | GPET/CSIR    | 50th percentile
+MA                   | GAET         | 50th percentile
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SUBJECT REQUIREMENTS FOR SPECIFIC PROGRAMMES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Programme                | Mandatory 12th Subjects
+──────────────────────────────────────────────────────────
+B.Tech – any branch      | Physics, Chemistry, Mathematics
+B.Sc – Biotechnology     | Biology mandatory (PCB or PCMB)
+B.Sc – Physics/Maths     | Mathematics mandatory
+B.Com (Hons)             | Accountancy/Business Studies preferred
+BBA – Business Analytics | Mathematics preferred (not mandatory)
+MBA – Business Analytics | Any UG with Maths/Statistics
+M.Tech                   | Relevant B.Tech/B.E. background
+GATE eligibility for MTech: Engineering / Technology / Architecture UG degree
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SPECIAL CATEGORY ELIGIBILITY NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Persons with Disabilities (PwD):
+  - 5% horizontal reservation across all categories.
+  - Minimum benchmark disability: 40% as certified by government hospital.
+  - Extra time: 20 minutes per hour in entrance exams (GFU-administered).
+  - Scribe facility available on request.
+
+Ex-Servicemen / Defence Personnel (Dependents):
+  - 2% supernumerary seats per programme.
+  - 5% relaxation in minimum percentage criteria.
+  - Certificate from Commanding Officer or Discharge Book required.
+
+Kashmiri Migrants:
+  - 2 supernumerary seats per programme.
+  - Percentage relaxation as per UGC norms.
+  - Kashmiri Migrant certificate from state government required.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. POST-ADMISSION ACADEMIC REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  - Minimum 75% attendance per course to be eligible for end-semester examinations.
+  - Minimum CGPA of 5.0 required to continue to the next academic year.
+  - Students with CGPA below 5.0 after Year 1 will be placed on academic probation;
+    below 4.0 may result in withdrawal from the programme.
+  - Repeat/Back exams available for students who fail (max 3 attempts per course).

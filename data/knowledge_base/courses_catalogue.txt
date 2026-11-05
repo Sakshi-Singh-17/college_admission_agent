@@ -1,0 +1,112 @@
+COURSE CATALOGUE — GREENFIELD UNIVERSITY
+========================================
+Academic Year 2025–2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UNDERGRADUATE PROGRAMMES (4-year unless noted)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SCHOOL OF ENGINEERING & TECHNOLOGY
+───────────────────────────────────
+Programme              | Intake | Minimum 12th % | Entrance Required
+B.Tech – CSE           |   120  |     60%        | JEE Main ≥ 75 percentile
+B.Tech – CSE (AI/ML)   |    60  |     65%        | JEE Main ≥ 80 percentile
+B.Tech – ECE           |    90  |     60%        | JEE Main ≥ 70 percentile
+B.Tech – Mech          |    90  |     55%        | JEE Main ≥ 65 percentile
+B.Tech – Civil         |    60  |     55%        | JEE Main ≥ 60 percentile
+B.Tech – Data Science  |    60  |     65%        | JEE Main ≥ 78 percentile
+B.Tech – Cybersecurity |    30  |     65%        | JEE Main ≥ 80 percentile
+
+Specialisations available in 3rd & 4th year:
+  CSE: Cloud Computing, DevOps, Blockchain, Embedded Systems
+  ECE: VLSI Design, IoT, Wireless Communication
+  Mech: Robotics & Automation, Thermal Engineering, CAD/CAM
+
+SCHOOL OF MANAGEMENT
+─────────────────────
+Programme                  | Intake | Min 12th % | Entrance
+BBA – General              |   120  |   50%      | GMAT-U / State CET
+BBA – Business Analytics   |    60  |   55%      | GMAT-U / State CET
+BBA – Digital Marketing    |    60  |   50%      | GMAT-U / State CET
+BBA – International Biz    |    60  |   50%      | GMAT-U + English Proficiency
+B.Com (Hons)               |   120  |   50%      | Board merit
+B.Com – Taxation & Finance |    60  |   50%      | Board merit
+
+SCHOOL OF SCIENCE
+──────────────────
+Programme              | Intake | Min 12th %  | Entrance
+B.Sc – Physics (Hons)  |    60  |   55%       | GSET
+B.Sc – Chemistry (Hons)|    60  |   55%       | GSET
+B.Sc – Mathematics     |    60  |   55%       | GSET
+B.Sc – Biotechnology   |    60  |   60%       | GSET + Biology mandatory
+B.Sc – Environmental Sc|    60  |   50%       | Board merit
+
+SCHOOL OF ARTS & HUMANITIES
+─────────────────────────────
+Programme            | Intake | Min 12th % | Entrance
+BA – English (Hons)  |    60  |   50%      | GAET + PI
+BA – Psychology      |    60  |   50%      | GAET + PI
+BA – Economics (Hons)|    60  |   55%      | GAET + PI
+BFA – Fine Arts      |    30  |   45%      | Portfolio + PI
+BDes – UX/UI Design  |    30  |   50%      | Portfolio + PI
+BDes – Fashion Design|    30  |   45%      | Portfolio + PI
+
+SCHOOL OF LAW
+──────────────
+Programme          | Intake | Min 12th % | Entrance
+BA LLB (5-year)    |    60  |   50%      | CLAT / GFU Law Entrance
+BBA LLB (5-year)   |    60  |   50%      | CLAT / GFU Law Entrance
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+POSTGRADUATE PROGRAMMES (2-year unless noted)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SCHOOL OF ENGINEERING & TECHNOLOGY
+───────────────────────────────────
+Programme                  | Intake | Min UG %  | Entrance
+M.Tech – CSE               |    30  |   55%     | GATE (CS/IT)
+M.Tech – AI & Machine Lrng |    30  |   55%     | GATE (CS/IT/DA)
+M.Tech – ECE               |    30  |   55%     | GATE (EC)
+M.Tech – Data Engineering  |    30  |   55%     | GATE (CS/IT/DA)
+MCA (3-year)               |    60  |   50%     | GFU MCA Entrance Test
+
+SCHOOL OF MANAGEMENT
+─────────────────────
+Programme                    | Intake | Min UG %  | Entrance
+MBA – General Management     |   120  |   55%     | CAT/MAT/XAT/GMAT
+MBA – Finance                |    60  |   55%     | CAT/MAT/XAT
+MBA – Marketing & Strategy   |    60  |   55%     | CAT/MAT/XAT
+MBA – HR & Organisational Beh|    60  |   55%     | CAT/MAT/XAT
+MBA – Business Analytics     |    60  |   60%     | CAT/MAT + Coding aptitude
+MBA – Entrepreneurship       |    30  |   55%     | CAT/MAT + Pitch Presentation
+
+SCHOOL OF SCIENCE
+──────────────────
+Programme           | Intake | Min UG %  | Entrance
+M.Sc – Physics      |    30  |   55%     | GPET / JEST
+M.Sc – Chemistry    |    30  |   55%     | GPET / CSIR-NET
+M.Sc – Mathematics  |    30  |   55%     | GPET
+M.Sc – Biotechnology|    30  |   55%     | GPET / CSIR-NET
+
+SCHOOL OF ARTS & HUMANITIES
+─────────────────────────────
+Programme         | Intake | Min UG %  | Entrance
+MA – English      |    30  |   55%     | GAET + SOP
+MA – Psychology   |    30  |   55%     | GAET + SOP + Research Proposal
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DOCTORAL PROGRAMMES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Ph.D. programmes available in all schools listed above.
+Duration: 3–5 years (full-time) | 4–6 years (part-time)
+Annual intake: 5–10 students per department, subject to supervisor availability.
+Refer to Ph.D. Ordinance document for detailed regulations.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CERTIFICATE & DIPLOMA PROGRAMMES (short-term)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  - PG Diploma in Data Science (1 year) — open to any UG graduates
+  - PG Diploma in Cybersecurity (1 year) — open to CS/IT graduates
+  - Certificate in Digital Marketing (6 months) — open to all
+  - Certificate in AI & Python (6 months) — open to all
+  - Certificate in Financial Modelling (6 months) — open to Commerce/Economics graduates
